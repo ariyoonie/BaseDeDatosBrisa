@@ -104,4 +104,8 @@ GO
 
 ```
 
+### **Diagrama**
+
+![Imagen 1](https://github.com/ariyoonie/BaseDeDatosBrisa/blob/main/Unidad4/diagrama.png)
+
 ---
